@@ -1,0 +1,21 @@
+commit e4760066b43edf851ba1ba7ba83250850b62e2e2 (HEAD -> main, origin/main, origin/HEAD)
+Author: Karolina Gliszczyńska <hello@karolinagliszczynska.com>
+Date:   Mon Aug 30 14:00:11 2021 +0200
+
+    zmieniłam nazwę pliku
+
+commit 94265888bb6c8e1ba12942dce2ac73679006f497
+Author: Karolina Gliszczyńska <hello@karolinagliszczynska.com>
+Date:   Mon Aug 30 13:58:40 2021 +0200
+
+    dodałam trzy kolejne zdania
+
+commit b05a0a79c3bdd15165409c0e6e471370b350c0d7
+Author: Karolina Gliszczyńska <hello@karolinagliszczynska.com>
+Date:   Mon Aug 30 13:49:09 2021 +0200
+
+    dodałam pierwsze zdanie lorem
+
+commit e82edbf49bdf753980274a65c968b1e247ab27e9
+Author: Karolina Gliszczyńska <hello@karolinagliszczynska.com>
+Date:   Mon Aug 30 13:38:58 2021 +020
